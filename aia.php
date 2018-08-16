@@ -1,5 +1,3 @@
-<!--(index.php) The following is helpful starter code for your index.php page. Make this page perfect FIRST and then reuse it to make all your subsequent pages listed in your navigation list -->
-
 <?php include "includes/header.php"?>
         
 <!-- START LEFT COL -->
